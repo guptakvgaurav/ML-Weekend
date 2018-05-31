@@ -9,7 +9,7 @@
 
 **Where to lookup for dataset for upcoming week**
 
-* Every weeks branch will be created. Ex - Branch for weekend starting on Jun 2, 2018 will be named as Jun_2_2018.
+* Every week's branch will be created. Ex - Branch for weekend starting on Jun 2, 2018 will be named as Jun_2_2018.
 You can find data set on the week's branch itself.
 * Week's branch will be merged at the end of week (ex branch Jun_2_2018 will be merged into master on Jun 8, 2018).
 
@@ -18,3 +18,8 @@ You can find data set on the week's branch itself.
 
 **Medium of communication**
 * WhatsApp group - https://chat.whatsapp.com/J9nujTTcS2350IHAD5g4Bo
+
+**How to use this repo**
+* Fork the repository
+* Apply your magic.
+* Submit Pull request.
