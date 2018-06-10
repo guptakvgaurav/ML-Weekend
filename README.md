@@ -16,13 +16,10 @@ You can find data set on the week's branch itself.
 **Call for Upcoming week's problem statement**
 * Submit your problem statement - https://docs.google.com/spreadsheets/d/1CzsMz4Szp-ACwQUnT1Te0a11zIxlvoVCTQkZ_g46W5U/edit?usp=sharing
 
+**Week's summary**
+ - Jun 2 - Email campaign problem. (Not much success).
+ - Jun 9 - Understanding of PCA. Applying Kmeans. (Little bit satisfied.) 
+
+
 **Medium of communication**
 * WhatsApp group - https://chat.whatsapp.com/J9nujTTcS2350IHAD5g4Bo
-<<<<<<< HEAD
-=======
-
-**How to use this repo**
-* Fork the repository
-* Apply your magic.
-* Submit Pull request.
->>>>>>> 8f16ba3263088c1493730e515d324185b63f3365
