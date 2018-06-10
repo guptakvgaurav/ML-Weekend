@@ -18,8 +18,11 @@ You can find data set on the week's branch itself.
 
 **Medium of communication**
 * WhatsApp group - https://chat.whatsapp.com/J9nujTTcS2350IHAD5g4Bo
+<<<<<<< HEAD
+=======
 
 **How to use this repo**
 * Fork the repository
 * Apply your magic.
 * Submit Pull request.
+>>>>>>> 8f16ba3263088c1493730e515d324185b63f3365
